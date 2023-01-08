@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Matar_volon.wav-f55e9a16fc80c79c5fc77d9c94c82123.sample"
+
+[deps]
+
+source_file="res://Recursos/Sfx/Matar_volon.wav"
+dest_files=[ "res://.import/Matar_volon.wav-f55e9a16fc80c79c5fc77d9c94c82123.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
